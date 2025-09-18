@@ -1,54 +1,60 @@
-# 👋 Hi, I'm Khushveer Singh  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Khushveer Singh</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | 💻 Competitive Programmer | 📊 Blockchain & AI Enthusiast</h3>
 
-🚀 **Aspiring Software Engineer** | 💻 **Competitive Programmer** | 📊 **Blockchain & AI Enthusiast**  
-
-![Profile Views](https://komarev.com/ghpvc/?username=KhushveerSingh&color=blueviolet)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Blockchain+Explorer;AI%2FML+Learner;Quantitative+Trading+Enthusiast" alt="Typing Animation" />
+</p>
 
 ---
 
 ## 🌟 About Me  
 - 🎓 2nd-year CSE student at **BMS Institute of Technology & Management**  
 - 🏆 Solved **200+ problems on LeetCode**  
-- 💡 Exploring **Blockchain, Quantitative Trading, and AI/ML**  
-- 🌍 Aim: Secure a tech role in the **US**  
+- 💡 Passionate about **Blockchain, Quantitative Trading, and AI/ML**  
+- 🌍 Goal: Build impactful projects & secure a tech role in the **US**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mongodb,mysql,react,nodejs,git,linux" />
+</p>
 
 ---
 
 ## 📌 Featured Projects  
 
-🔗 [**Blockchain Certificate Verifier**](#) – Decentralized solution for validating certificates  
-📈 [**LSTM Stock Predictor**](#) – Forecasts stock with RSI, MACD, Bollinger Bands  
+🌐 [**Blockchain Certificate Verifier**](#) – Decentralized certificate validation using blockchain  
+📈 [**LSTM Stock Predictor**](#) – Forecasts stock movements with RSI, MACD, Bollinger Bands  
 🎮 [**2048 Game Clone**](#) – Classic puzzle in Python/JS  
-📺 [**Netflix & Amazon Clone**](#) – Full-stack project with authentication  
-🤖 [**Binance Futures Trading Bot**](#) – Automated trading bot  
+📺 [**Netflix & Amazon Clone**](#) – Full-stack web app with authentication & UI/UX design  
+🤖 [**Binance Futures Trading Bot**](#) – Automated trading with `binance-futures-connector`  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Khushveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhushveerSingh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushveerSingh&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhushveerSingh&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushveerSingh&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushveerSingh&layout=compact&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushveerSingh&theme=radical" height="160" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushveer@example.com)  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:khushveer@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-⚡ *“Code. Build. Break. Learn. Repeat.”*  
+<p align="center">⚡ <i>"Code. Build. Break. Learn. Repeat."</i> ⚡</p>
