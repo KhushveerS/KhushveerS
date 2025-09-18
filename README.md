@@ -9,8 +9,8 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 2nd-year CSE student at **BMS Institute of Technology & Management**  
-- 🏆 Solved **200+ problems on LeetCode**  
+- 🎓 3rd-year CSE student at **BMS Institute of Technology & Management**  
+- 🏆 Solved **300+ problems on LeetCode**  
 - 💡 Passionate about **Blockchain, Quantitative Trading, and AI/ML**  
 - 🌍 Goal: Build impactful projects & secure a tech role in the **US**  
 
@@ -24,15 +24,7 @@
 
 ---
 
-## 📌 Featured Projects  
 
-🌐 [**Blockchain Certificate Verifier**](#) – Decentralized certificate validation using blockchain  
-📈 [**LSTM Stock Predictor**](#) – Forecasts stock movements with RSI, MACD, Bollinger Bands  
-🎮 [**2048 Game Clone**](#) – Classic puzzle in Python/JS  
-📺 [**Netflix & Amazon Clone**](#) – Full-stack web app with authentication & UI/UX design  
-🤖 [**Binance Futures Trading Bot**](#) – Automated trading with `binance-futures-connector`  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -56,7 +48,7 @@
   <a href="https://personal-portfolio-ten-omega-14.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:khushveer@example.com">
+  <a href="khushveersingh645@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
