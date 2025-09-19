@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Software Engineer | 💻 Competitive Programmer | 📊 Blockchain & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Blockchain+Explorer;AI%2FML+Learner;Quantitative+Trading+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Blockchain+Explorer;Competitive Programmer;AI%2FML+Learner;Quantitative+Trading+Enthusiast" alt="Typing Animation" />
 </p>
 
 ---
