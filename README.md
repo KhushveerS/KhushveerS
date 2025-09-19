@@ -19,10 +19,74 @@
 
 ## 🛠️ Tech Stack  
 
+### 🚀 Languages and Tools:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs,mongodb,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,firebase,figma,tailwind,bootstrap,sass,ps,postman" />
+  <!-- Row 1 -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/><br/>Java
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/><br/>Python
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++"/><br/>C++
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/><br/>JavaScript
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/><br/>HTML
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/><br/>CSS
+  </a>
 </p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/><br/>React
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/><br/>Node.js
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express"/><br/>Express
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/><br/>MongoDB
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/><br/>MySQL
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br/>Git
+  </a>
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/><br/>Linux
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/><br/>Docker
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="50" alt="Kubernetes"/><br/>Kubernetes
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/><br/>Firebase
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="TailwindCSS"/><br/>Tailwind
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma"/><br/>Figma
+  </a>
+</p>
+
 
 
 ---
