@@ -21,10 +21,6 @@
 
 ### 🚀 Languages and Tools:
 
-### 🚀 Languages and Tools:
-
-### 🚀 Languages and Tools:
-
 <p align="center">
   <a href="https://www.java.com/" target="_blank" style="display:inline-block; text-align:center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/><br/><sub>Java</sub>
