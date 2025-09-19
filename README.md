@@ -23,48 +23,28 @@
 
 ### 🚀 Languages and Tools:
 
+### 🚀 Languages and Tools:
+
 <p align="center">
-  <a href="https://www.java.com/" target="_blank">
+  <a href="https://www.java.com/" target="_blank" style="display:inline-block; text-align:center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/><br/><sub>Java</sub>
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" style="display:inline-block; text-align:center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/><br/><sub>Python</sub>
   </a>
-  <a href="https://isocpp.org/" target="_blank">
+  <a href="https://isocpp.org/" target="_blank" style="display:inline-block; text-align:center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++"/><br/><sub>C++</sub>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display:inline-block; text-align:center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/><br/><sub>JavaScript</sub>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display:inline-block; text-align:center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/><br/><sub>HTML</sub>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="display:inline-block; text-align:center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/><br/><sub>CSS</sub>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/><br/><sub>React</sub>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/><br/><sub>Node.js</sub>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express"/><br/><sub>Express</sub>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/><br/><sub>MongoDB</sub>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/><br/><sub>MySQL</sub>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br/><sub>Git</sub>
-  </a>
-</p>
-
 
 ---
 
