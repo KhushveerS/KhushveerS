@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Khushveer Singh</h1>
-<h3 align="center">🚀 Aspiring Software Engineer|</> Web Developer | 💻 Competitive Programmer | 📊 Blockchain & AI Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Software Engineer|🧑‍💻 Web Developer | 💻 Competitive Programmer | 📊 Blockchain & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Competitive+Programmer;Blockchain+Enthusiast;AI+Engineer" alt="Typing Animation" />
@@ -9,12 +9,44 @@
 
 ---
 
-## 🌟 About Me  
-- 🎓 3rd-year CSE student at **BMS Institute of Technology & Management**  
-- 🏆 Solved **300+ problems on LeetCode**  
-- 💡 Passionate about **Blockchain, Quantitative Trading, and AI/ML**  
-- 🌍 Goal: Build impactful projects & secure a tech role in the **US**  
+## 🚀 About Me
 
+- 🎓 Third-year Computer Science student  
+- 🧠 Solved **200+ problems on LeetCode**
+- 💡 Strong in **Java**, **DSA**, and **problem-solving**
+- 🌱 Exploring **AI, Quantitative Trading & Blockchain**
+- 🎯 Aspiring Software Engineer (Global Opportunities)
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java ⭐⭐⭐⭐
+- Python ⭐⭐⭐
+- C / C++ ⭐⭐⭐
+- JavaScript ⭐⭐⭐
+
+### 🧱 Core Concepts
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- DBMS & SQL  
+- Operating Systems  
+- Computer Networks  
+
+### 🌐 Web & Backend
+- HTML, CSS, JavaScript  
+- Node.js, Express  
+- MongoDB  
+- REST APIs  
+- JWT Authentication  
+
+### 🤖 AI & Finance
+- LSTM-based Stock Prediction  
+- Technical Indicators (RSI, MACD, Bollinger Bands)  
+- Algorithmic & Quantitative Trading  
+
+---
 ---
 
 ## 🛠️ Tech Stack  
