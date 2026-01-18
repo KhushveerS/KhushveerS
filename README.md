@@ -22,10 +22,10 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- Java ⭐⭐⭐⭐
+- Java ⭐⭐⭐⭐⭐
 - Python ⭐⭐⭐
-- C / C++ ⭐⭐⭐
-- JavaScript ⭐⭐⭐
+- C / C++ ⭐⭐⭐⭐
+- JavaScript ⭐⭐
 
 ### 🧱 Core Concepts
 - Data Structures & Algorithms  
