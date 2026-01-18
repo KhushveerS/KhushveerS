@@ -47,7 +47,6 @@
 - Algorithmic & Quantitative Trading  
 
 ---
----
 
 ## 🛠️ Tech Stack  
 
